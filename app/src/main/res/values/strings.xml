@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My First App</string>
+    <string name="enter_number_text">Enter a Number</string>
+    <string name="check_number_text">Check Number</string>
+    <string name="results_text">Result</string>
+    <string name="results_correct">That is correct! You have won!</string>
+    <string name="results_incorrect">That is incorrect :-( Please try again</string>
+</resources>
